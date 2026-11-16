@@ -60,6 +60,11 @@ Peak puede preguntar a Google Play si hay una versión más nueva de Peak y ofre
 Google Play. Para responder, Google Play usa los datos de tu dispositivo y la versión de Peak instalada, como cuando
 actualiza tus apps.
 
+### Valorar la app
+
+Tras algunos entrenamientos, Peak puede pedir a Google Play que muestre su tarjeta para valorar Peak. Google Play
+decide si aparece, y lo que valores o escribas en ella va a Google Play, no a Peak ni a su desarrollador.
+
 ### Cambiar de teléfono
 
 Los datos de Peak quedan fuera de la copia de seguridad en la nube de Android (Google Drive), porque los

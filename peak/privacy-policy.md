@@ -60,6 +60,11 @@ Peak may ask Google Play whether a newer version of Peak is available, and offer
 dialog. To answer, Google Play uses your device's details and the installed version of Peak, as it does when it
 updates your apps.
 
+### Rating requests
+
+After a few workouts, Peak may ask Google Play to show its card for rating Peak. Google Play decides whether it
+appears, and anything you rate or write in it goes to Google Play, not to Peak or its developer.
+
 ### Moving to a new phone
 
 Peak's data is left out of Android's cloud backup (Google Drive), since workouts are health data. When you set up a
