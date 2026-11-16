@@ -5,7 +5,7 @@ lang: en
 
 # Peak privacy policy
 
-Effective 15 November 2026. [Leer en español](privacy-policy.es.md)
+Effective 16 November 2026. [Leer en español](privacy-policy.es.md)
 
 Peak is a fitness app for planning and logging your gym workouts, and for seeing the activity, sleep and body
 measurements already on your phone. It has no account, no analytics and no ads, and it doesn't use the internet: the
@@ -53,6 +53,12 @@ If you use Peak's Wear OS app, the phone sends your routines and the workout in 
 sends back the sets you log and the changes you make. They travel directly between the two devices through Google
 Play services' Wear OS connection, only while the watch is nearby. The watch shows this data while you train and
 keeps none of it.
+
+### Update checks
+
+Peak may ask Google Play whether a newer version of Peak is available, and offer it with Google Play's own
+dialog. To answer, Google Play uses your device's details and the installed version of Peak, as it does when it
+updates your apps.
 
 ### Moving to a new phone
 
